@@ -2,6 +2,7 @@
 Random number generation using Stephen Wolfram's Cellular Automata
 
 ![Snippet of how random number generation takes place](https://github.com/lchsam/RandomStephen/blob/master/ca.gif)
+
 (I assure you when you run the program, the framerate is extremely satisfying)
 
 ## Why

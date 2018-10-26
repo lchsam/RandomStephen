@@ -3,7 +3,7 @@ Random number generation using Stephen Wolfram's Cellular Automata
 
 ![Snippet of how random number generation takes place](https://github.com/lchsam/RandomStephen/blob/master/ca.gif)
 
-(I assure you when you run the program, the framerate is extremely satisfying)
+(I assure you when you run the program, the framerate is a lot better than this)
 
 ## Why
 This was heavily inspired from Daniel Shiffman's Processing implementation of Stephen Wolfram's Cellular Automata. I became really interested Processing and how easy it is to code up something interesting really quickly. After watching countless talks Stephen Wolfram gave, He mentioned that his team at Wolfram Alpha uses Cellular Automata to generate random numbers. So, I took on the challenge to extract the supposed bits that each cell represents (Code written in January of 2018).
